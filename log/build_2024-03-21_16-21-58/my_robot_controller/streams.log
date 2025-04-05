@@ -1,0 +1,22 @@
+[0.293s] Invoking command in '/home/youhans/ros2_ws/build/my_robot_controller': PYTHONPATH=/home/youhans/ros2_ws/build/my_robot_controller/prefix_override:/home/youhans/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/youhans/ros2_ws/build/my_robot_controller/build --no-deps symlink_data
+[0.424s] running develop
+[0.488s] running egg_info
+[0.488s] writing my_robot_controller.egg-info/PKG-INFO
+[0.488s] writing dependency_links to my_robot_controller.egg-info/dependency_links.txt
+[0.489s] writing entry points to my_robot_controller.egg-info/entry_points.txt
+[0.489s] writing requirements to my_robot_controller.egg-info/requires.txt
+[0.489s] writing top-level names to my_robot_controller.egg-info/top_level.txt
+[0.490s] reading manifest file 'my_robot_controller.egg-info/SOURCES.txt'
+[0.490s] writing manifest file 'my_robot_controller.egg-info/SOURCES.txt'
+[0.491s] running build_ext
+[0.491s] Creating /home/youhans/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages/my-robot-controller.egg-link (link to .)
+[0.491s] Installing draw_circle script to /home/youhans/ros2_ws/install/my_robot_controller/lib/my_robot_controller
+[0.491s] Installing pose script to /home/youhans/ros2_ws/install/my_robot_controller/lib/my_robot_controller
+[0.491s] Installing test_node script to /home/youhans/ros2_ws/install/my_robot_controller/lib/my_robot_controller
+[0.491s] Installing turtle_controller script to /home/youhans/ros2_ws/install/my_robot_controller/lib/my_robot_controller
+[0.491s] 
+[0.492s] Installed /home/youhans/ros2_ws/build/my_robot_controller
+[0.492s] running symlink_data
+[0.492s] creating /home/youhans/ros2_ws/install/my_robot_controller/share/my_robot_controller/launch
+[0.492s] symbolically linking /home/youhans/ros2_ws/build/my_robot_controller/launch/my_script_launch.py -> /home/youhans/ros2_ws/install/my_robot_controller/share/my_robot_controller/launch
+[0.507s] Invoked command in '/home/youhans/ros2_ws/build/my_robot_controller' returned '0': PYTHONPATH=/home/youhans/ros2_ws/build/my_robot_controller/prefix_override:/home/youhans/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/youhans/ros2_ws/build/my_robot_controller/build --no-deps symlink_data
